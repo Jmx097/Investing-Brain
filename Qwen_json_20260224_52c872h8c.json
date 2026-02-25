@@ -1,0 +1,51 @@
+{
+  "article": {
+    "title": "Two Powerful Reasons To Keep A Journal",
+    "author": "Brett Steenbarger",
+    "publication": "Forbes",
+    "date_published": "2015-07-10",
+    "category": "Money/Markets",
+    "summary": "An exploration of how journaling serves as a powerful psychological and learning tool, particularly for traders and performance-focused professionals, with research-backed benefits for personal development.",
+    "key_points": {
+      "reason_1": {
+        "title": "Journals Can Reflect And Shape Our Realities",
+        "core_insights": [
+          "Language reveals personality and mental state; resilient people use action-oriented words (done, working, make)",
+          "Expressive writing has healing effects—patients report decreased symptoms when writing about stresses with fresh perspective",
+          "Gratitude journals increase well-being and reduce physical illness symptoms (Emmons research)",
+          "Problem-focused journaling can reinforce negative self-perception; solution-focused journaling is more empowering and sustainable",
+          "Journals make self-talk concrete and serve as psychological mirrors"
+        ]
+      },
+      "reason_2": {
+        "title": "Journals Enhance Learning And Development",
+        "core_insights": [
+          "Successful professionals use journals for learning, not just venting or reporting",
+          "Effective journals enable deliberate practice: evaluate experience, make corrections, re-assess performance",
+          "Recommended 6-entry journal format:",
+          "  1. What did I do best this week and how?",
+          "  2. What did I do worst and what led to it?",
+          "  3. What will I do next week to continue my best?",
+          "  4. What will I do next week to improve my worst?",
+          "  5. How well did I achieve my 'continue best' goal?",
+          "  6. How well did I achieve my 'improve worst' goal?",
+          "Combines learning from strengths/weaknesses with actionable goal-setting",
+          "'Best possible self' exercise fuels optimism when turned into ongoing journal practice"
+        ]
+      }
+    },
+    "practical_tips": [
+      "Make journaling a habit: same time/place daily",
+      "Use electronic tools like Evernote for accessibility and tagging",
+      "Focus on solution-oriented writing over problem-dwelling",
+      "Connect past experiences to present actions and future goals",
+      "Use journals as mindfulness tools to increase self-awareness"
+    ],
+    "research_cited": [
+      "James Pennebaker: language expresses personality and enables healing through expressive writing",
+      "HopeLab (Steve Cole): language links mind and body; resilience reflected in action-oriented vocabulary",
+      "GreaterGood/Robert Emmons: gratitude journals improve well-being, especially when emphasizing relationships and emotional depth"
+    ],
+    "target_audience": "Traders, portfolio managers, performance professionals, and anyone seeking structured self-development"
+  }
+}
